@@ -65,6 +65,9 @@
   <ItemGroup>
     <ClCompile Include="bmp2txt.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="defs.hpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
